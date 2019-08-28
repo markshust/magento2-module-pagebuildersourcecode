@@ -3,8 +3,8 @@
     "description": "The Page Builder Source Code module adds a Source Code button to the toolbar of the Page Builder WYSIWYG editor.",
     "require": {
         "php": ">=7.1",
-        "magento/framework": "102.0.1.*",
-        "magento/module-page-builder": "1.0.0"
+        "magento/framework": "102.0.*",
+        "magento/module-page-builder": "1.0.*"
     },
     "type": "magento2-module",
     "version": "1.0.0",
