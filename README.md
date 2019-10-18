@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>Adds a Source Code button to the toolbar of the Page Builder WYSIWYG editor.</p>
-  <img src="https://img.shields.io/badge/magento-2.3.2-brightgreen.svg?logo=magento&longCache=true&style=flat-square" alt="Supported Magento Versions" />
+  <img src="https://img.shields.io/badge/magento-^2.3.2-brightgreen.svg?logo=magento&longCache=true&style=flat-square" alt="Supported Magento Versions" />
   <a href="https://packagist.org/packages/markshust/magento2-module-pagebuildersourcecode" target="_blank"><img src="https://img.shields.io/packagist/v/markshust/magento2-module-pagebuildersourcecode.svg?style=flat-square" alt="Latest Stable Version" /></a>
   <a href="https://packagist.org/packages/markshust/magento2-module-pagebuildersourcecode" target="_blank"><img src="https://poser.pugx.org/markshust/magento2-module-pagebuildersourcecode/downloads" alt="Composer Downloads" /></a>
   <a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity" target="_blank"><img src="https://img.shields.io/badge/maintained%3F-yes-brightgreen.svg?style=flat-square" alt="Maintained - Yes" /></a>
