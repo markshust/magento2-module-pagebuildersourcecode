@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
     <type name="Magento\PageBuilder\Model\Wysiwyg\DefaultConfigProvider">
         <arguments>
             <argument name="additionalSettings" xsi:type="array">
                 <item name="toolbar" xsi:type="string">
-                    undo redo | styleselect | fontsizeselect | lineheightselect | forecolor backcolor
-                    | bold italic underline | alignleft aligncenter alignright | numlist bullist
-                    | link image table charmap | code
+                    undo redo | styleselect | fontsizeselect | lineheightselect | forecolor backcolor | bold italic
+                    underline | alignleft aligncenter alignright | numlist bullist | link image table charmap | code
                 </item>
             </argument>
         </arguments>
