@@ -21,6 +21,8 @@
 
 Page Builder does not come with a way to edit the HTML source code when editing a text block. Sometimes it is desired to override the default styles and edit the HTML manually. This module adds the "code" icon to the toolbar to allow this capability.
 
+If you'd like to learn a bit more about why & how you'd use this module, check out the <a href="https://www.youtube.com/watch?v=12oyP-4Iebw" target="_blank">explainer video of this module</a>, created by <a href="https://www.youtube.com/channel/UCnkPBx_DwgNcdz_-TJSI-tg" target="_blank">Webverse</a>.
+
 ## Requirements
 
 This module requires the Page Builder module, which comes installed with Magento Commerce 2.3.1.
