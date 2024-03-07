@@ -39,7 +39,7 @@ bin/magento setup:upgrade
 
 This module has no configuration. Just install, and you'll see the code icon in the Page Builder WYSIWYG editor toolbar.
 
-![Screenshot](https://raw.githubusercontent.com/markshust/magento2-module-pagebuildersourcecode/master/docs/demo.png)
+![Screenshot](https://raw.githubusercontent.com/markshust/magento2-module-pagebuildersourcecode/master/docs/demo-20240316.png)
 
 ## License
 
