@@ -5,8 +5,10 @@
         <arguments>
             <argument name="additionalSettings" xsi:type="array">
                 <item name="toolbar" xsi:type="string">
-                    undo redo | styleselect | fontsizeselect | lineheightselect | forecolor backcolor | bold italic
-                    underline | alignleft aligncenter alignright | numlist bullist | link image table charmap | code
+                    undo redo | styleselect | fontsizeselect | lineheightselect | forecolor backcolor
+                    | bold italic underline | alignleft aligncenter alignright | numlist bullist | link image table charmap
+                    | magentowidget | magentovariable
+                    | code
                 </item>
             </argument>
         </arguments>
