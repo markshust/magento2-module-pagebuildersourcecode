@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [2.0.0] - 2025-03-12
+
+Tagging as major release, since implementation has completely changed.
+
+### Fixed
+- Use plugin to support all versions of Magento [PR #13](https://github.com/markshust/magento2-module-pagebuildersourcecode/pull/13).
+- Above update also fixes "removes format and line height icons" issue [#12](https://github.com/markshust/magento2-module-pagebuildersourcecode/issues/12).
+
 ## [1.0.5] - 2024-03-06
 
 ### Fixed
